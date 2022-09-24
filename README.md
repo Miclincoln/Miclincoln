@@ -1,3 +1,17 @@
+<div align="center">
+<h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp<img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px"></h2>
+</div>
+
+<div align="center" width="50">
+
+</div>
+
+<div align="center">
+
+Welcome to my Github profile. <br>
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/miclincoln/miclincoln/issues/new"><b>here</b></a><br>
+or <a href="mailto:kayodemichael1@gmail.com"><b>email</b></a> me
 ## Wonderful Intro
 
 <table>
@@ -167,7 +181,14 @@
       </p>
     </td>
   </tr>
-</table>
+
+[
+![J4WEB's github activity graph](https://activity-graph.herokuapp.com/graph?username=miclincoln&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=miclincoln&theme=react-dark)
+
+<img alt="Github-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=miclincoln&theme=chartreuse-dark"/>
+<a href="https://github.com/j4web">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=miclincoln&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="MICHAEL's Stats">
+  </a>
 
 ## Connect with me:
 
