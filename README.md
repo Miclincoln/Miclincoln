@@ -1,11 +1,8 @@
-[![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://dunsin.vercel.app/)
-
 ## Wonderful Intro
 
 <table>
   <tr>
     <td valign="center">
-      <a href="https://dunsin.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h3>Hello👋🏾</h3>
@@ -13,55 +10,30 @@
         <br/>
         🚀 &nbsp;I love contributing to Opensource.
         <br/>
-        🙂 &nbsp; I'm a content creator on Instagram.
-        <br/>
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
         <h3>Sponsor Me🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <a href="https://www.buymeacoffee.com/miclincoln"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
         <br />
-        <h3>Twitter & Discord Community</h3>
-        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="220" alt="Community Link"/></a>
+        <h3>Twitter </h3>
         <br/>
-        <a href="https://twitter.com/DunsinWebDev">
-          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+        <a href="https://twitter.com/miclincoln">
+          <img src="https://img.shields.io/twitter/follow/miclincoln?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+      <a href="https://app.daily.dev/miclincoln"><img src="https://api.daily.dev/devcards/0c0c7ec56c4846a2a09b0e5a9efccbec.png?r=yn8" width="400" alt="Kayode Gbenga Michael's Dev Card"/></a>
     </td>
   </tr>
 </table>
 
-## Contribute to My Projects👇🏽
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Whisper" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <a href="https://github.com/Dun-sin/smartsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=smartsearch" /></a>
-</p>
 
 ## My Github Stats && Technologies I use:
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dun-sin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-sin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
   <tr>
   <tr>
     <td>
@@ -197,12 +169,10 @@
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
 ## Connect with me:
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/favour-faiyetole-99a438229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/DunsinWebDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dunsincodes"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href = "https://www.linkedin.com/in/miclincoln"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/miclincoln"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
