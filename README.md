@@ -20,9 +20,9 @@ or <a href="mailto:kayodemichael1@gmail.com"><b>email</b></a> me
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h3>Hello👋🏾</h3>
-        👀 &nbsp;I love to build projects, make life easier and fun with code.
+        👀 &nbsp;I love to build projects, makes life easier and fun with code.
         <br/>
-        🚀 &nbsp;I love contributing to Opensource.
+        🚀 &nbsp;Contributing to Opensource.
         <br/>
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
