@@ -120,7 +120,7 @@ or <a href="mailto:kayodemichael1@gmail.com"><b>email</b></a> me
 ## Connect with me:
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/miclincoln"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://www.linkedin.com/in/themiclincoln"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/miclincoln"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
