@@ -97,14 +97,6 @@ or <a href="mailto:kayodemichael1@gmail.com"><b>email</b></a> me
   <tr>
     <td>      
       <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-        </a>
-        <p align="center">Tailwind</p>
-      </p>
-    </td>
-    <td>            
-      <p align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
       </a>
@@ -121,10 +113,6 @@ or <a href="mailto:kayodemichael1@gmail.com"><b>email</b></a> me
     </td>
     <td>           
       <p align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-      </a>
-        <p align="center">SASS</p>
       </p>
     </td>
   </tr>
